@@ -5,6 +5,9 @@ considerando as seguintes alíquotas:
 • Faixa 1: 5%
 • Faixa 2: 10%
 • Faixa 3: 15
+
+@author Taris Henrique
+
 */
 
 #include <stdio.h>
