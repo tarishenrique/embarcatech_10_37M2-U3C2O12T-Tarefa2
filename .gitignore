@@ -1,0 +1,44 @@
+# Arquivos de build
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.out
+*.dylib
+
+# Diretórios de build
+/build/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Arquivos gerados por IDEs e ferramentas
+*.log
+*.tmp
+*.swp
+*.suo
+*.user
+*.ncb
+*.opt
+*.plg
+
+# Arquivos do Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Arquivos de dependências
+*.d
+
+# Outros arquivos temporários ou irrelevantes
+*.bak
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.pyc
+.DS_Store
+Thumbs.db
